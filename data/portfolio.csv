@@ -1,0 +1,11 @@
+offer_id,offer_type,reward,difficulty,duration,email,mobile,social,web,discount,informational
+b1,bogo,10,10,7,1,1,1,0,0,0
+b2,bogo,10,10,5,1,1,1,1,0,0
+info_1,informational,0,0,4,1,1,0,1,0,1
+b3,bogo,5,5,7,1,1,0,1,0,0
+d1,discount,5,20,10,1,0,0,1,1,0
+d2,discount,3,7,7,1,1,1,1,1,0
+d3,discount,2,10,10,1,1,1,1,1,0
+info_2,informational,0,0,3,1,1,1,0,0,1
+b4,bogo,5,5,5,1,1,1,1,0,0
+d4,discount,2,10,7,1,1,0,1,1,0
